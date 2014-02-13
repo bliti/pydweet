@@ -11,13 +11,13 @@ class Dweet(object):
     #assigns a random dweet name to the thing.
     DWEET = "{0}{1}".format(BASE_URL , "dweet?")
 
-    #dweet by thing name. Uses .format()
+    #dweet by thing name.
     DWEET_BY_NAME = "{0}{1}".format(BASE_URL, "dweet/for/{name}?")
 
-    #get latest dweets by name. Uses .format()
+    #get latest dweets by name.
     LATEST_DWEET = "{0}{1}".format(BASE_URL, "get/latest/dweet/for/{name}")
 
-    #get all dweets by name. Uses .format()
+    #get all dweets by name.
     ALL_DWEETS = "{0}{1}".format(BASE_URL, "get/dweets/for/{name}")
     
 
