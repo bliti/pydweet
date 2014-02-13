@@ -4,6 +4,9 @@ pydweet
 Python client for dweet.io
 
 
+##Current version: 0.1
+
+
 ####Install
 
 Create a new virtual environment (optional, but recommended).
