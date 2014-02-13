@@ -31,7 +31,7 @@ This is a beta release.
 Features not supported:
 
 - POST requests
-- JSOP POST requests
+- JSONP POST requests
 
 
 
