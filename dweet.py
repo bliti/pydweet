@@ -76,6 +76,5 @@ class Dweet(object):
        Dweet limit currently is 500 dweets.
        Returns dict type.
        Parameter name is a string type.
-       
        """ 
        return requests.get(self.ALL_DWEETS.format(name=name)).json()
