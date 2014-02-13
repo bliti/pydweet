@@ -32,3 +32,8 @@ Features not supported:
 
 - POST requests
 - JSOP POST requests
+
+
+
+#License
+**MIT**
